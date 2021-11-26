@@ -1,0 +1,46 @@
+{
+    "author_id": null,
+    "tmin": null,
+    "tmax": null,
+    "qlist": [
+        {
+            "qnumber": 1,
+            "qtext": "Question text",
+            "qball": 1,
+            "vlist": [
+                {
+                    "vnumber": 1,
+                    "vtext": "Text for variant"
+                }
+            ]
+        },
+        {
+            "qnumber": 2,
+            "qtext": "Testing Question 2",
+            "qball": 5,
+            "vlist": []
+        },
+        {
+            "qnumber": 3,
+            "qtext": "Question text",
+            "qball": 1,
+            "vlist": [
+                {
+                    "vnumber": 1,
+                    "vtext": "Text for variant"
+                }
+            ]
+        },
+        {
+            "qnumber": 4,
+            "qtext": "Testing Question",
+            "qball": 3,
+            "vlist": [
+                {
+                    "vnumber": 1,
+                    "vtext": "Text for variant"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{% load static %}
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Skiff Test</title>
+  <link rel="stylesheet" type="text/css" href="{% static 'css/auth.css' %}">
+</head>
+
+<body>
+    <div class = "authform">
+        <form action="/auth/" method="post">
+            {% csrf_token %}
+                <div class = "namefield"> Имя: {{ form.user_name }} </div>
+                <div>Name valid: {{ name_msg }}</div>
+                <div class = "passwordfield"> Пароль: {{ form.user_password }} </div>
+                <div>Password valid: {{ password_msg }}</div>
+                <input type = "submit" value = "Войти">
+        </form>
+    </div>
+    <div class = "back"> <img src="{% static 'img/homebg.jpg' %}"> </div>
+</body>

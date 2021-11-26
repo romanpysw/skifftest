@@ -1,0 +1,122 @@
+{
+    "author_id": 4,
+    "tmin": 0,
+    "tmax":5,
+    "qlist": [
+        {
+            "qnumber": 1,
+            "qtext": "Question 1",
+            "qball": 1,
+            "vlist": [
+                {
+                "vnumber": 1,
+                "vtext": "q1 var 1"
+                },
+                {
+                "vnumber": 2,
+                "vtext": "q1 var 2"
+                },
+                {
+                "vnumber": 3,
+                "vtext": "q1 var 3"
+                },
+                {
+                "vnumber": 4,
+                "vtext": "q1 var 4"
+                }
+            ]
+        },
+        {
+            "qnumber": 2,
+            "qtext": "Question 2",
+            "qball": 1,
+            "vlist": [
+                {
+                "vnumber": 1,
+                "vtext": "q2 var 1"
+                },
+                {
+                "vnumber": 2,
+                "vtext": "q2 var 2"
+                },
+                {
+                "vnumber": 3,
+                "vtext": "q2 var 3"
+                },
+                {
+                "vnumber": 4,
+                "vtext": "q2 var 4"
+                }
+            ]
+        },
+        {
+            "qnumber": 3,
+            "qtext": "Question 3",
+            "qball": 1,
+            "vlist": [
+                {
+                "vnumber": 1,
+                "vtext": "q3 var 1"
+                },
+                {
+                "vnumber": 2,
+                "vtext": "q3 var 2"
+                },
+                {
+                "vnumber": 3,
+                "vtext": "q3 var 3"
+                },
+                {
+                "vnumber": 4,
+                "vtext": "q3 var 4"
+                }
+            ]
+        },
+        {
+            "qnumber": 1,
+            "qtext": "Question 4",
+            "qball": 1,
+            "vlist": [
+                {
+                "vnumber": 1,
+                "vtext": "q4 var 1"
+                },
+                {
+                "vnumber": 2,
+                "vtext": "q4 var 2"
+                },
+                {
+                "vnumber": 3,
+                "vtext": "q4 var 3"
+                },
+                {
+                "vnumber": 4,
+                "vtext": "q4 var 4"
+                }
+            ]
+        },
+        {
+            "qnumber": 1,
+            "qtext": "Question 5",
+            "qball": 1,
+            "vlist": [
+                {
+                "vnumber": 1,
+                "vtext": "q5 var 1"
+                },
+                {
+                "vnumber": 2,
+                "vtext": "q5 var 2"
+                },
+                {
+                "vnumber": 3,
+                "vtext": "q5 var 3"
+                },
+                {
+                "vnumber": 4,
+                "vtext": "q5 var 4"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Skiff Test</title>
+  <link rel="stylesheet" type="text/css" href="{% static 'css/home.css' %}">
+</head>
+<body>
+
+  <div id="wrapper">
+
+    <header id="header">
+      <div class="header__top">
+        <div class="container">
+          <div class="header__top__logo">
+            <h1><a href="#">Skiff Test</a></h1>
+          </div>
+          <nav class="header__top__menu">
+            <ul>
+              <li><a href="#">Главная</a></li>
+              <li><a href="#">О проекте</a></li>
+              <!--<li><a href="#">Я Вконтакте</a></li>-->
+            </ul>
+          </nav>
+        </div>
+      </div>
+
+      <div class="header__bottom">
+        <div class="container">
+          <nav>
+            <ul>
+              <li><a href="#">Главная</a></li>
+              <li><a href="#">Новости</a></li>
+              <li><a href="#">Личный кабинет</a></li>
+              <li><a href="#">Мои курсы</a></li>
+              <li><a href="#">Преподавание</a></li>
+              <li><a href="#">Редактор</a></li>
+              <li><a href="#">Q&A</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <div class = "back"> <img src="{% static 'img/homebg.jpg' %}"> </div>
+</body>
+<footer>
+  <div class = "foot"></div>
+</footer>
+</html>
